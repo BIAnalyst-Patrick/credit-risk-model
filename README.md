@@ -24,6 +24,8 @@ This leads to avoidable losses and missed revenue opportunities, underlining the
   * **False Positive Rate**: 14% at recommended threshold.
   * **Calibration Accuracy**: 28-32% observed defaults when 30% default risk is predicted.
 
+  Try The model here https://credit-risks.streamlit.app/
+
 ## Portfolio Impact
 
 * **Default Reduction**: The model helps avoid **18-25%** of total portfolio losses (roughly 2.2-3.0% of total losses).
